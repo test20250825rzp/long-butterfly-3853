@@ -1,8 +1,0 @@
-{
-  "name": "vite-vue-template",
-  "entry": "/index.js",
-  "assets": {
-    "directory": "/src/assets",
-    "notFoundStrategy": "singlePageApplication"
-  }
-}
